@@ -1,1 +1,16 @@
-h1 {color: blue;}
+body {
+	margin: 0;
+	margin-top: -65px;
+}
+
+.banner {
+	background-color: #6E6E6E;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	font-weight: bold;
+	font-size: 90px;
+	color: #2ECCFA;
+}
