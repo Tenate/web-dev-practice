@@ -1,56 +1,54 @@
 body {
-	margin: 0;
-	margin-top: 0px;
-	background-color: gray;
+margin: 0;
+margin-top: 0px;
+background-color: gray;
 }
-
 .banner {
-	text-align: center;
+text-align: center;
 }
-
 .wrapper {
-	width: 900px;
+width: 900px;
 }
-
 .wrapper {
-	margin-top: -16px;
-	margin-left: auto;
-	margin-right: auto;
+margin-top: -16px;
+margin-left: auto;
+margin-right: auto;
 }
-
 .nav {
-	border-top:solid black;
-	border-bottom:solid black;
-	text-align: center;
-	background-color: #2ECCFA;
+border-top:solid black;
+border-bottom:solid black;
+text-align: center;
+background-color: #2ECCFA;
 }
-
 .nav ul {
-	display: inline;
-	text-align: center;
-
+display: inline;
+text-align: center;
 }
-
 .nav li {
-	text-transform: uppercase;
-	font-size: 20px;
-	font-weight: bold;
-	padding-left: 20px;
-	padding-right: 45px;
-	text-align: center;
-	display: inline;
-	color:black;
+text-transform: uppercase;
+font-size: 20px;
+font-weight: bold;
+padding-left: 20px;
+padding-right: 45px;
+text-align: center;
+display: inline;
+color:black;
 }
-
 a {
-	text-decoration: none;
-	color: black;
+text-decoration: none;
+color: black;
 }
-
 a:visited, a:active {
-	color: black;
+color: black;
 }
-
 a:hover {
- color: black;
+color: black;
+}
+a:link {
+  color: blue;
+  background-color: transparent;
+}
+a:hover {
+  color: #00BFFF;
+  background-color: #424242;
 }
