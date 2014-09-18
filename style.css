@@ -39,19 +39,6 @@ a {
 text-decoration: none;
 color: black;
 }
-a:visited, a:active {
-color: black;
-}
-a:hover {
-color: black;
-}
-a:link {
-color: #424242;
-}
-a:hover {
-color: #2ECCFA;
-background-color: #424242;
-}
 a {
 color: black;
 }
